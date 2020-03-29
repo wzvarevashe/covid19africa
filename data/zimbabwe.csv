@@ -1,0 +1,8 @@
+case_id;origin_case_id;date;age;gender;city;province/state;country;current_status;source
+1;UK;2020/03/20;38;M;Victoria Falls;Matebeleland North;Zim;Stable;https://twitter.com/MoHCCZim
+2;USA;2020/03/21;30;M;Harare;Harare;Zim;Died;https://twitter.com/MoHCCZim
+3;Dubai;2020/03/22;52;M;Harare;Harare;Zim;Stable;https://twitter.com/MoHCCZim
+4;USA;2020/03/24;24;F;Harare;Harare;Zim;Stable;https://twitter.com/MoHCCZim
+5;Local;2020/03/26;30;M;Harare;Harare;Zim;Stable;https://twitter.com/MoHCCZim
+6;Local;2020/03/27;40;F;Harare;Harare;Zim;Stable;https://twitter.com/MoHCCZim
+7;Local;2020/03/27;24;F;Harare;Harare;Zim;Stable;https://twitter.com/MoHCCZim
